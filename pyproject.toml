@@ -9,6 +9,7 @@ python = ">=3.8,<3.11"
 numpy = ">=1.18,<1.23"
 numba = "^0.55.2"
 astropy = "^5.1"
+pandas = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 ipython = "^8.4.0"
