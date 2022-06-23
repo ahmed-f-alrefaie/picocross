@@ -9,6 +9,7 @@ The package uses the poetry build system to manage dependencies. Clone the
 repository::
 
     $ git clone https://github.com/ahmed-f-alrefaie/picocross.git
+    $ cd picocross
 
 
 Then install the package with::
