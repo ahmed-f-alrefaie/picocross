@@ -4,6 +4,22 @@ picocross package
 Submodules
 ----------
 
+picocross.cli module
+--------------------
+
+.. automodule:: picocross.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+picocross.profiles module
+-------------------------
+
+.. automodule:: picocross.profiles
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 picocross.states module
 -----------------------
 
